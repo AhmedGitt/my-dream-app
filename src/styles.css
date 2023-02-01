@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.app-component {
+  background-color: #ffe4c4;
+  color: blue;
+  padding: 1rem;
+  margin: 1rem;
+}
+.servers-component {
+  background-color: black;
+  color: #ffe4c4;
+  padding: 1rem;
+}
+.app-server {
+  background-color: blue;
+  color: #ffe4c4;
+  padding: 1rem;
+}
